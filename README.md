@@ -173,7 +173,7 @@ Sky Moon - [sky.moon7567@gmail.com](mailto:sky.moon7567@gmail.com)
 
 LinkedIn: [linkedin.com/in/sky-moon/](https://linkedin.com/in/sky-moon/)
 
-Project Link: [https://github.com/SkyMoon56/Library_SQL_Project][(https://github.com/SkyMoon56/Library-SQL-Project)]
+Project Link: [github.com/SkyMoon56/Library-SQL-Project](https://github.com/SkyMoon56/Library-SQL-Project)
 
 ## 🙏 Acknowledgments
 
