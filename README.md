@@ -1,6 +1,6 @@
 # 📚 Library Management System - SQL Analytics Project
 
-A comprehensive SQL project demonstrating data analysis and database management skills through a real-world library management system. This project showcases intermediate SQL techniques including complex joins, aggregations, window functions, and business intelligence queries.
+A comprehensive SQL project demonstrating data analysis and database management skills through a real-world library management system. This project showcases SQL techniques including complex joins, aggregations, window functions, and business intelligence queries.
 
 ## 🎯 Project Overview
 
